@@ -6,9 +6,9 @@ description 'Supermarket'
 version '0.1'
 
 shared_scripts {
-    '@jClassLib/imports.lua',
-    '@jZoneLib/imports.lua',
-    '@jBlipLib/imports.lua',
+    '@jClassLib/init.lua',
+    '@jZoneLib/init.lua',
+    '@jBlipLib/init.lua',
 
     "shared.lua",
 }
