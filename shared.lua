@@ -41,7 +41,7 @@ Config = {
     },
 }
 
--- Actually -> FR
+-- Current -> FR
 Language = {
     Food = 'Nourriture',
     Drink = 'Boisson',
